@@ -1,0 +1,7 @@
+pytest
+mypy
+z3-solver
+pre-commit
+flake8
+black
+tox
